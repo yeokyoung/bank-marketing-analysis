@@ -1,0 +1,8 @@
+컬럼명,설명
+age,주 피보험자의 나이
+sex,"보험 계약자의 성별 (여성: female, 남성: male)"
+bmi,"체질량지수 (Body Mass Index, BMI): 신장 대비 체중 수준을 평가하는 지표"
+children,건강보험에 가입된 자녀 수 / 부양가족 수
+smoker,"흡연 여부 (흡연자: yes, 비흡연자: no)"
+region,"피보험자의 거주 지역 (미국 내): northeast (북동부), southeast (남동부), southwest (남서부), northwest (북서부)"
+charges,개인 의료비 청구 금액 (건강보험을 통해 청구된 금액)
